@@ -1,0 +1,9 @@
+# Cealing-Host-Generator Source File
+#
+# Use following format to write sources:
+# <domain>[:<sni>]
+#
+# Example:
+# pixiv.net
+# pixiv.net:pixivision.net
+#
